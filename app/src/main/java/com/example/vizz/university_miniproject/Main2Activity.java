@@ -39,7 +39,7 @@ public class Main2Activity extends AppCompatActivity {
                     }
                 }
                 else {
-                    Toast.makeText(Main2Activity.this, "No users registered ! Please register", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(Main2Activity.this, "idiot No users registered ! Please register", Toast.LENGTH_SHORT).show();
                     }
                 }
               //  else
